@@ -5,7 +5,7 @@ git init
 ```
 ### 2.подключение к github
 ```
-git remote add origin https://github.com/Akaktak228/feeling.gi
+git remote add origin https://github.com/Akaktak228/feeling.git
 ```
 ### 1. Получение недостающих файлов
 ```
