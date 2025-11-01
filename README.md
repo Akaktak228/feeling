@@ -7,10 +7,6 @@ git init
 ```
 git remote add origin https://github.com/Akaktak228/feeling.git
 ```
-### 1. Получение недостающих файлов
-```
-git pull origin main
-```
 # Работа с кодом
 ### 1. Получение недостающих  файлов с github
 ```
@@ -32,5 +28,3 @@ git merge main
 ```
 git push origin main
 ```
-
-dasdasdasda
