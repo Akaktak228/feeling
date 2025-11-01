@@ -1,5 +1,14 @@
+@import "header-footer.css";
+
 *{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: "Segoe UI",sans-serif;
 }
+
+.container {
+    width: var(--width);
+    margin: 0 auto;
+}
+
